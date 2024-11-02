@@ -1,7 +1,7 @@
 use to filter CPC2 output text into fasta file  
 we will further add more script for different tasks for differnt filtering tools and coding and non coding file sepration
-# Non-Coding Sequence Extractor
-Non-Coding Sequence Extractor is a Python-based filtering tool used to extract non-coding sequences from a FASTA file based on classifications provided by a CPC2 output file. The script reads the CPC2 results, identifies non-coding sequences, and creates a new FASTA file with only non-coding sequences for further analysis.
+# CPC2_Non-Coding_Sequence_Extractor
+CPC2_Non-Coding_Sequence_Extractor is a Python-based filtering tool used to extract non-coding sequences from a FASTA file based on classifications provided by a CPC2 output file. The script reads the CPC2 results, identifies non-coding sequences, and creates a new FASTA file with only non-coding sequences for further analysis.
 
 Table of Contents
 Requirements
